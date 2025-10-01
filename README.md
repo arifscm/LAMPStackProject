@@ -21,7 +21,7 @@ This setup separates the **frontend (WordPress)** and the **backend (MySQL DB)**
 ---
 
 ## 📑 Project Report
-👉 [Click here to view/download the full PDF][(https://drive.google.com/your-public-share-link)](https://drive.google.com/file/d/1c2G_KaDHGViFNPpEl4q9YfBGeol3ywvu/view)
+👉 [Click here to view/download the full PDF][[(https://drive.google.com/your-public-share-link)]](https://drive.google.com/file/d/1D2aWxYENuburDxGCn5jcYsyxSChBVlbs/view)
 
 ---
 
